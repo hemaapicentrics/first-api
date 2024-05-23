@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>anypoint-mq</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<artifactId>first-api-2144</artifactId>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>anypoint-mq</name>
@@ -35,7 +35,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>hema-may17</username>
 						<password>Hemala03</password>
-						<applicationName>first-api</applicationName>
+						<applicationName>first-api-2144</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
