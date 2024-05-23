@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>first-api-2144</artifactId>
+	<artifactId>first-api-21</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
@@ -35,7 +35,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>hema-may17</username>
 						<password>Hemala03</password>
-						<applicationName>first-api-2144</applicationName>
+						<applicationName>first-api-21</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
